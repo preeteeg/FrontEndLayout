@@ -1,0 +1,25 @@
+{
+  "name": "frontendlayout",
+  "version": "1.0.0",
+  "description": "grid layout for a portal page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch assets/scss -o assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preeteeg/FrontEndLayout.git"
+  },
+  "author": "Preetee Gangoosirdar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preeteeg/FrontEndLayout/issues"
+  },
+  "homepage": "https://github.com/preeteeg/FrontEndLayout#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "font-awesome": "^4.7.0",
+    "node-sass": "^5.0.0"
+  }
+}
